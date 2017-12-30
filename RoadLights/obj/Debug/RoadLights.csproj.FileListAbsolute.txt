@@ -1,0 +1,22 @@
+c:\users\letovs\documents\visual studio 2012\Projects\RoadLights\RoadLights\bin\Debug\RoadLights.exe.config
+C:\Users\LetovS\documents\visual studio 2012\Projects\RoadLights\RoadLights\obj\Debug\RoadLights.csprojResolveAssemblyReference.cache
+C:\Users\LetovS\documents\visual studio 2012\Projects\RoadLights\RoadLights\obj\Debug\RoadLights.Properties.Resources.resources
+C:\Users\LetovS\documents\visual studio 2012\Projects\RoadLights\RoadLights\obj\Debug\RoadLights.csproj.GenerateResource.Cache
+C:\Users\LetovS\documents\visual studio 2012\Projects\RoadLights\RoadLights\bin\Debug\RoadLights.exe
+C:\Users\LetovS\documents\visual studio 2012\Projects\RoadLights\RoadLights\bin\Debug\RoadLights.pdb
+C:\Users\LetovS\documents\visual studio 2012\Projects\RoadLights\RoadLights\obj\Debug\RoadLights.ImageResourses.resources
+C:\Users\LetovS\documents\visual studio 2012\Projects\RoadLights\RoadLights\obj\Debug\RoadLights.exe
+C:\Users\LetovS\documents\visual studio 2012\Projects\RoadLights\RoadLights\obj\Debug\RoadLights.pdb
+C:\Users\LetovS\documents\visual studio 2012\Projects\RoadLights\RoadLights\obj\Debug\RoadLights.Game.resources
+C:\Users\Letov\Desktop\RoadLights\RoadLights\bin\Debug\RoadLights.exe.config
+C:\Users\Letov\Desktop\RoadLights\RoadLights\obj\Debug\RoadLights.exe
+C:\Users\Letov\Desktop\RoadLights\RoadLights\obj\Debug\RoadLights.pdb
+C:\Users\Letov\Desktop\RoadLights\RoadLights\bin\Debug\RoadLights.exe
+C:\Users\Letov\Desktop\RoadLights\RoadLights\bin\Debug\RoadLights.pdb
+C:\Users\Letov\Desktop\RoadLights\RoadLights\obj\Debug\RoadLights.csprojResolveAssemblyReference.cache
+C:\Users\Letov\Desktop\RoadLights\RoadLights\obj\Debug\RoadLights.Game.resources
+C:\Users\Letov\Desktop\RoadLights\RoadLights\obj\Debug\RoadLights.ImageResourses.resources
+C:\Users\Letov\Desktop\RoadLights\RoadLights\obj\Debug\RoadLights.Properties.Resources.resources
+C:\Users\Letov\Desktop\RoadLights\RoadLights\obj\Debug\RoadLights.csproj.GenerateResource.Cache
+C:\Users\Letov\Desktop\RoadLights\RoadLights\obj\Debug\RoadLights.MainMenu.resources
+C:\Users\LetovS\Documents\Visual Studio 2012\Projects\RoadLights\RoadLights\obj\Debug\RoadLights.MainMenu.resources
